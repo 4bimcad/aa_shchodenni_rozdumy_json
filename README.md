@@ -1,1 +1,1 @@
-# aa_shchodenni_rozdumy_json
+# Щоденні Роздуми АА на python і телеграм боті
